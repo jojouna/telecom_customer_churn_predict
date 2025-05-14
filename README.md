@@ -25,7 +25,6 @@ You are provided with a sample dataset of a telecom company’s customers and it
 ### 2. Train/test set split reasoning
 ```
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, stratify=y, random_state=42)
-2. Split the dataset into train/test sets and explain your reasoning
 ```
 
 - Set the test size to 20% since that is the largely accepted standard.
