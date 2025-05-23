@@ -1,6 +1,6 @@
 # Customer Churn Prediction for a Telecom Company
 
-(<i>Please go [here](https://github.com/jojouna/telecom_customer_churn_predict/blob/main/customerChurnPrediction.ipynb) to see the whole work process</i>)
+(<i>Please go [here](https://github.com/jojouna/telecom_customer_churn_predict/blob/main/customerChurnPrediction_v2.ipynb) to see the whole work process</i>)
 
 ## Assignment
 You are provided with a sample dataset of a telecom company’s customers and it's expected to done the following tasks:
